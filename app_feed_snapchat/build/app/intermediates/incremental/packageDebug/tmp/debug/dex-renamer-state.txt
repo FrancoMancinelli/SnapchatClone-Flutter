@@ -1,0 +1,4 @@
+#Tue Dec 06 02:06:22 CET 2022
+base.0=C\:\\Users\\franc\\OneDrive\\Documentos\\DAM2\\PMDM\\Flutter\\SnapchatAppClone\\app_feed_snapchat\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
